@@ -1,0 +1,10 @@
+G:\教师监控相关文件\MyClassroom\bin\Debug\MyClassroom.exe.config
+G:\教师监控相关文件\MyClassroom\bin\Debug\MyClassroom.exe
+G:\教师监控相关文件\MyClassroom\bin\Debug\MyClassroom.pdb
+G:\教师监控相关文件\MyClassroom\obj\Debug\MyClassroom.csprojAssemblyReference.cache
+G:\教师监控相关文件\MyClassroom\obj\Debug\MyClassroom.Properties.Resources.resources
+G:\教师监控相关文件\MyClassroom\obj\Debug\MyClassroom.csproj.GenerateResource.cache
+G:\教师监控相关文件\MyClassroom\obj\Debug\MyClassroom.csproj.CoreCompileInputs.cache
+G:\教师监控相关文件\MyClassroom\obj\Debug\MyClassroom.exe
+G:\教师监控相关文件\MyClassroom\obj\Debug\MyClassroom.pdb
+G:\教师监控相关文件\MyClassroom\obj\Debug\MyClassroom.Form1.resources
